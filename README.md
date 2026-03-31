@@ -8,7 +8,6 @@
 
 > Bu çalışma, paylaşılan paketin statik analizi sonucunda hazırlandı.  
 > Paket, Denuvo benzeri korumaları aşmak için **driver, service, DLL injection, thread manipulation ve düşük seviye bellek işlemleri** kullanmaktadır.  
-> Yani yapı bir virüs değil; daha çok **hypervisor tabanlı bypass aracı** gibi gözükmekte.  
 
 ---
 
