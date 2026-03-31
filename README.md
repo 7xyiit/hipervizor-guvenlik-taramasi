@@ -265,4 +265,4 @@ Buradaki ana risk veri çalma değil, daha çok **stabilite ve uyumluluk**.
 ## Nihai Değerlendirme
 
 > **Açık trojan, keylogger veya veri çalan zararlı davranışı tespit edilmedi.**  
-> **Görülen düşük seviyeli müdahaleler, büyük ölçüde Denuvo / koruma bypass amacıyla kullanılan tekniklerle uyumlu.**  
+> **Görülen düşük seviyeli müdahaleler, büyük ölçüde Denuvo'yu atlatma amacıyla kullanılan tekniklerle uyumludur.**  
