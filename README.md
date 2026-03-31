@@ -7,10 +7,8 @@
 ![Mode](https://img.shields.io/badge/type-hypervisor%20bypass-critical)
 
 > Bu çalışma, paylaşılan paketin statik analizi sonucunda hazırlandı.  
-> İnceleme sonucunda **klasik trojan, keylogger, stealer veya açık backdoor davranışına dair net bir bulgu çıkmadı**.  
-> Buna karşılık paket, Denuvo benzeri korumaları aşmak için **driver, service, DLL injection, thread manipulation ve düşük seviye bellek işlemleri** kullanıyor.  
-> Yani yapı malware gibi görünmüyor; daha çok **hypervisor tabanlı bypass aracı** gibi duruyor.  
-> Asıl risk tarafı veri çalma değil, **BSOD, çökme, kararsızlık ve uyumluluk sorunları**.
+> Paket, Denuvo benzeri korumaları aşmak için **driver, service, DLL injection, thread manipulation ve düşük seviye bellek işlemleri** kullanmaktadır.  
+> Yani yapı bir virüs değil; daha çok **hypervisor tabanlı bypass aracı** gibi gözükmekte.  
 
 ---
 
